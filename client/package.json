@@ -21,7 +21,7 @@
     "typescript": "^2.7.2"
   },
   "dependencies": {
-    "protobufjs": "^6.8.5",
+    "protobufjs": "^6.11.3",
     "bluebird": "^3.5.1",
     "split2": "^2.2.0",
     "strongly-typed-events": "^1.4.3",
