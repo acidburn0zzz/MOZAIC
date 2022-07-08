@@ -110,7 +110,7 @@
     "immutable": "^3.8.2",
     "lowdb": "^1.0.0",
     "mkdirp": "^0.5.1",
-    "moment": "^2.23.0",
+    "moment": "^2.29.4",
     "mozaic-client": "file:../../client",
     "planetwars-match-log": "file:../match-log",
     "planetwars-visualizer": "file:../visualizer",
