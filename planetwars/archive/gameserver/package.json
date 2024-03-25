@@ -8,7 +8,7 @@
     },
     "dependencies": {
         "body-parser": "~1.18.1",
-        "express": "~4.15.4",
+        "express": "~4.19.2",
         "file-system": "~2.2.2",
         "temp": "^0.8.3",
         "webpack": "^3.6.0"
